@@ -1,2 +1,5 @@
 # Ignore compiled binary files
 /cmd/main/main
+
+# Ignore environment variables
+.env
